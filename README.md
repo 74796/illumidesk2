@@ -1,1 +1,1 @@
-# illumidesk2
+# Repository for Illumidesk app
